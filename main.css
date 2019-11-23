@@ -14,27 +14,27 @@ div {
   }
 
   #orange { /* this selects any elements with the red id */
-  color: #ffa500;
+  border-top-color: #ffa500;
   }
 
   #yellow { /* this selects any elements with the red id */
-  color: #ff0;
+  border-top-color: #ff0;
   }
 
   #green { /* this selects any elements with the red id */
-  color: #00bc3f;
+  border-top-color: #00bc3f;
   }
 
   #blue { /* this selects any elements with the red id */
-  color: #00bc3f;
+  border-top-color: #00bc3f;
   }
 
   #indigo { /* this selects any elements with the red id */
-  color: #00bc3f;
+  border-top-color: #00bc3f;
   }
 
   #violet { /* this selects any elements with the red id */
-  color: #00bc3f;
+  border-top-color: #00bc3f;
   }
 
 
